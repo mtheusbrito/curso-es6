@@ -1,0 +1,27 @@
+ul{
+list-style: none;
+margin: 0;
+font-family: sans-serif;
+padding: 0;
+
+}
+
+li{
+    clear: both;
+    margin-top: 20px;
+
+}
+img{
+    width: 80px;
+    
+    float: left;
+    margin-right: 10px;
+
+}
+strong{
+    font-size: 20px;
+
+}
+p{
+    margin: 5px 0;
+}
